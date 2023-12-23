@@ -52,13 +52,13 @@
 .sidebar ul .dropdown:hover ul{
       display:inline ;
 }
-.icone{
+.icone, .house{
       color: #fdc411;
       background-color: #EAF1F6; 
       padding:20px;
       font-size: 25px;
 }
-.icone span{
+.icone span, .house span{
       color:black;
       background-color: #EAF1F6;
       padding: 10px; 
